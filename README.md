@@ -13,7 +13,7 @@ This is a simple React application for user authentication, featuring a login pa
 1. Clone the repository:
 
    ```bash
- git clone
+ git clone https://github.com/MANOJPATIL143/React-Test-case.git
 
 # Install dependencies:
 npm install
