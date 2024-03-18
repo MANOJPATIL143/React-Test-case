@@ -29,5 +29,5 @@ Click on the logout button to end your session and return to the login page.
 
 # Technologies Used
 React.js
-React Router DOM
+
 CSS (for styling)
